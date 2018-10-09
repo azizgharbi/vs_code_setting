@@ -1,0 +1,34 @@
+{
+  "window.zoomLevel": 0,
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "editor.mouseWheelZoom": true,
+  "gitlens.settings.mode": "advanced",
+  "gitlens.menus": {
+    "editor": {
+      "blame": false,
+      "clipboard": true,
+      "compare": true,
+      "details": true,
+      "history": true,
+      "remote": true
+    },
+    "editorGroup": {
+      "blame": true,
+      "compare": true,
+      "history": false,
+      "remote": false
+    },
+    "editorTab": {
+      "compare": false,
+      "history": true,
+      "remote": true
+    },
+    "explorer": {
+      "compare": true,
+      "history": true,
+      "remote": true
+    }
+  },
+  "editor.formatOnSave": true
+}
